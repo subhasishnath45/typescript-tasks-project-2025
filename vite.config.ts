@@ -2,7 +2,7 @@ import { defineConfig } from 'vite';
 
 export default defineConfig({
   server: {
-    open: '/tasks.html',
+    open: '/index.html',
   },
 });
 
